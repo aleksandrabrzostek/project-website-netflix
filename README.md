@@ -3,4 +3,4 @@
 * This project is a simple page about movies you can always find on Netflix.
 * Language: polish
 ## Link
-*  https://olciabrzostek.github.io/netflix-movies-project/
+*  https://aleksandrabrzostek.github.io/project-website-netflix/
